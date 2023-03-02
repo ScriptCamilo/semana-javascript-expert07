@@ -1,29 +1,35 @@
-- Curso oficial do google sobre Machine Learning for Web Developers (Web ML): https://youtube.com/playlist?list=PLOU2XLYxmsILr3HQpqjLAUkIPa5EaZiui
-- Projetos feitos com TensorFlow: https://youtube.com/playlist?list=PLQY2H8rRoyvzSZZuF0qJpoJxZR1NgzcZw
-- Treinando ML no Google: https://teachablemachine.withgoogle.com/
+# Referências
+
+- Curso oficial do google sobre Machine Learning for Web Developers (Web ML): [Machine Learning Course](https://youtube.com/playlist?list=PLOU2XLYxmsILr3HQpqjLAUkIPa5EaZiui)
+- Projetos feitos com TensorFlow: [Tensor Flow Projects](https://youtube.com/playlist?list=PLQY2H8rRoyvzSZZuF0qJpoJxZR1NgzcZw)
+- Treinando ML no Google: [ML Training](https://teachablemachine.withgoogle.com/)
 
 ## Aula01
-- Codigo do Calculo: https://github.com/monaca-samples/blink-to-text/blob/f3d578ff641298913833b04e98e854bf1cfe38e1/src/js/blinkPrediction.js
-- Dependencias do worker.js
+
+- Código do Cálculo: [Calculation code](https://github.com/monaca-samples/blink-to-text/blob/f3d578ff641298913833b04e98e854bf1cfe38e1/src/js/blinkPrediction.js)
+- Dependências do worker.js
+
 ```js
     import "https://unpkg.com/@tensorflow/tfjs-core@2.4.0/dist/tf-core.js"
     import "https://unpkg.com/@tensorflow/tfjs-converter@2.4.0/dist/tf-converter.js"
     import "https://unpkg.com/@tensorflow/tfjs-backend-webgl@2.4.0/dist/tf-backend-webgl.js"
     import "https://unpkg.com/@tensorflow-models/face-landmarks-detection@0.0.1/dist/face-landmarks-detection.js"
 ```
-- base de dados usada: https://www.kaggle.com/code/vikassingh1996/netflix-movies-and-shows-plotly-recommender-sys/data
-- Converter video para canvas: https://stackoverflow.com/questions/64249599/how-to-run-handpose-tfjs-model-in-web-worker
-- blog tensorflow sobre deteccao de iris: https://blog.tensorflow.org/2020/11/iris-landmark-tracking-in-browser-with-MediaPipe-and-TensorFlowJS.html
-- tensorflow lib: face-landmarks-detection: https://github.com/tensorflow/tfjs-models/blob/master/face-landmarks-detection
-- workers api: https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
-- module workers: https://web.dev/module-workers/
-- verificar compatibilidade: caniuse.com
-- outro exemplo fazendo blink detection: https://selvamsubbiah.com/mediapipe-iris-detection-in-tensorflow-js/
-- identificando codigo morse com eye detection: https://medium.com/the-web-tub/recognising-eye-blinking-with-tensorflow-js-3c02b738850d
-- layout usado: https://codepen.io/Gunnarhawk/pen/vYJEwoM
-- Explicação do porque webgl, cpu, webassembly: https://youtu.be/3ive-w7oUis?t=333
 
-## Aula02 
+- Base de dados usada: [Database](https://www.kaggle.com/code/vikassingh1996/netflix-movies-and-shows-plotly-recommender-sys/data)
+- Converter vídeo para canvas: [Convert video to canvas](https://stackoverflow.com/questions/64249599/how-to-run-handpose-tfjs-model-in-web-worker)
+- Blog TensorFlow sobre detecção de íris: [Iris detection blog](https://blog.tensorflow.org/2020/11/iris-landmark-tracking-in-browser-with-MediaPipe-and-TensorFlowJS.html)
+- TensorFlow lib: [Face Landmarks Detection](https://github.com/tensorflow/tfjs-models/blob/master/face-landmarks-detection)
+- Workers: [API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
+- Module workers: [https://web.dev/module-workers/](https://web.dev/module-workers/)
+- Verificar compatibilidade: [caniuse.com](caniuse.com)
+- Outro exemplo fazendo blink detection: [Blink detection example](https://selvamsubbiah.com/mediapipe-iris-detection-in-tensorflow-js/)
+- Identificando código morse com eye detection: [Morse code detection](https://medium.com/the-web-tub/recognising-eye-blinking-with-tensorflow-js-3c02b738850d)
+- Layout usado: [Layout owner](https://codepen.io/Gunnarhawk/pen/vYJEwoM)
+- Explicação do porque webgl, cpu, webAssembly: [Technologies explanation](https://youtu.be/3ive-w7oUis?t=333)
+
+## Aula02
+
 - Arquivo Gestures para copiar: https://github.com/andypotato/rock-paper-scissors/blob/54add341dbe83287c8ede69fbb006149a8145dd9/src/js/Gestures.js
 - Imports do arquivo handGestureFactory:
 ```js
