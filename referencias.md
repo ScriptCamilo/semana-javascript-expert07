@@ -30,8 +30,9 @@
 
 ## Aula02
 
-- Arquivo Gestures para copiar: https://github.com/andypotato/rock-paper-scissors/blob/54add341dbe83287c8ede69fbb006149a8145dd9/src/js/Gestures.js
+- Arquivo Gestures para copiar: [Gestures Files](https://github.com/andypotato/rock-paper-scissors/blob/54add341dbe83287c8ede69fbb006149a8145dd9/src/js/Gestures.js)
 - Imports do arquivo handGestureFactory:
+
 ```js
     import "https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-core@4.2.0/dist/tf-core.min.js"
     import "https://unpkg.com/@tensorflow/tfjs-backend-webgl@3.7.0/dist/tf-backend-webgl.min.js"
@@ -39,11 +40,12 @@
     import "https://cdn.jsdelivr.net/npm/@tensorflow-models/hand-pose-detection@2.0.0/dist/hand-pose-detection.min.js"
     import "https://cdn.jsdelivr.net/npm/fingerpose@0.1.0/dist/fingerpose.min.js"
 ```
-- Problema que encontrei na hora de usar webworker no hands.js: https://github.com/tensorflow/tfjs/issues/7380
-- PR aberto no fingerpose: https://github.com/andypotato/fingerpose/pull/25
-- Meu fingerpose: https://github.com/ErickWendel/fingerpose
-- Jokenpo: https://github.com/andypotato/rock-paper-scissors
-- Diagrama do TensorFlow HandPoseDetection: https://github.com/tensorflow/tfjs-models/tree/master/hand-pose-detection#keypoint-diagram
+
+- Problema que [Erick Wendel](https://github.com/ErickWendel) encontrou na hora de usar webworker no hands.js: [TensorFlow issue](https://github.com/tensorflow/tfjs/issues/7380)
+- PR do [Erick Wendel](https://github.com/ErickWendel) aberto no fingerpose: [Fingerpose repository](https://github.com/andypotato/fingerpose/pull/25)
+- Erick Wendel fingerpose: [https://github.com/ErickWendel/fingerpose](https://github.com/ErickWendel/fingerpose)
+- Jokenpo: [https://github.com/andypotato/rock-paper-scissors](https://github.com/andypotato/rock-paper-scissors)
+- Diagrama do TensorFlow HandPoseDetection: [TensorFlow HandPoseDetection Diagram](https://github.com/tensorflow/tfjs-models/tree/master/hand-pose-detection#keypoint-diagram)
 
 ## Aula03
 - Projeto Solar Hands: https://github.com/liady/solar-hands
