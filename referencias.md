@@ -48,7 +48,7 @@
 - Diagrama do TensorFlow HandPoseDetection: [TensorFlow HandPoseDetection Diagram](https://github.com/tensorflow/tfjs-models/tree/master/hand-pose-detection#keypoint-diagram)
 
 ## Aula03
+
 - Projeto Solar Hands: https://github.com/liady/solar-hands
 - Indices dos dedos da API do tensorflow: https://github.com/tensorflow/tfjs-models/tree/a345f0c58522af25d80153ec27c6e999e45fdd42/hand-pose-detection#keypoint-diagram
 - elementFromPoint API: https://developer.mozilla.org/en-US/docs/Web/API/Document/elementFromPoint
-
