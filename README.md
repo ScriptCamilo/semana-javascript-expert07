@@ -25,7 +25,7 @@ Marque esse projeto com uma estrela 🌟
   - [x] - Deve desenhar mãos na tela e fazer com que elementos em segundo plano  continuem sendo clicáveis  🙌
   - [x] - Deve disparar scroll up quando usar a palma das mãos abertas 🖐
   - [x] - Deve disparar scroll down quando usar a palma das mãos fechadas ✊
-  - [x] - Deve disparar click no elemento mais próximo quando usar  gesto de pinça 🤏🏻
+  - [x] - Deve disparar click no elemento mais próximo quando usar gesto de pinça 🤏🏻
   - [x] - Ao mover elementos na tela, deve disparar evento **:hover** em elementos em contexto
 
 - Video Player
@@ -39,7 +39,7 @@ Marque esse projeto com uma estrela 🌟
 - [ ] - Aula 03 - A definir
 - [ ] - Aula 04 - A definir
 
-### Links mostrados nos aulas
+### Links mostrados nos aulas:
 
 - Reuni todos os links em [referências](./referencias.md)
 
