@@ -22,11 +22,11 @@ Marque esse projeto com uma estrela 🌟
 
 - Titles List
   - [x] - Campo para pesquisa não deve travar ao digitar termo de pesquisa
-  - [x] - Deve desenhar mãos na tela e fazer com que elementos em segundo plano  continuem sendo clicáveis  🙌
-  - [x] - Deve disparar scroll up quando usar a palma das mãos abertas 🖐
-  - [x] - Deve disparar scroll down quando usar a palma das mãos fechadas ✊
-  - [x] - Deve disparar click no elemento mais próximo quando usar  gesto de pinça 🤏🏻
-  - [x] - Ao mover elementos na tela, deve disparar evento **:hover** em elementos em contexto
+  - [ ] - Deve desenhar mãos na tela e fazer com que elementos em segundo plano  continuem sendo clicáveis  🙌
+  - [ ] - Deve disparar scroll up quando usar a palma das mãos abertas 🖐
+  - [ ] - Deve disparar scroll down quando usar a palma das mãos fechadas ✊
+  - [ ] - Deve disparar click no elemento mais próximo quando usar  gesto de pinça 🤏🏻
+  - [ ] - Ao mover elementos na tela, deve disparar evento **:hover** em elementos em contexto
 
 - Video Player
   - [x] - Deve ser possível de reproduzir ou pausar videos com o piscar de olhos 😁
@@ -39,7 +39,7 @@ Marque esse projeto com uma estrela 🌟
 - [ ] - Aula 03 - A definir
 - [ ] - Aula 04 - A definir
 
-### Links mostrados nos aulas
+### Links mostrados nos aulas:
 
 - Reuni todos os links em [referências](./referencias.md)
 
@@ -55,7 +55,7 @@ Marque esse projeto com uma estrela 🌟
     1. instale o **http-server**  com `npm i -D http-server`
     2. no package.json apague todo o comando do `browser-sync` e substitua por `npx http-server .`
     3. agora o projeto vai estar executando na :8080 então vá no navegador e tente acessar o http://localhost:8080/
-  A única coisa, é que o projeto não vai reiniciar quando voce alterar algum código, vai precisar dar um F5 na página toda vez que alterar algo
+  A unica coisa, é que o projeto não vai reiniciar quando voce alterar algum código, vai precisar dar um F5 na página toda vez que alterar algo
 
 ### Créditos ao Layout
 
